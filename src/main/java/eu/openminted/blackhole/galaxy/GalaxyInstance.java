@@ -16,8 +16,6 @@ public interface GalaxyInstance {
   ToolsClient getToolsClient();
 
   ConfigurationClient getConfigurationClient();
-  
-  ToolShedRepositoriesClient getRepositoriesClient();
     
   SearchClient getSearchClient();
   
